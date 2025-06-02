@@ -19,19 +19,18 @@ Lightweight Binance trading & back-testing tools,  (default: **BTCUSDC**). All c
 ---
 
 ## 🗂️ Repo layout
-
+```text
 crypto-algo-bot/
 │
-├── .env.example # ← copy to .env and add your keys
+├── .env.example          # copy to .env and add your keys
 ├── requirements.txt
 ├── README.md
 ├── .gitignore
-│
-├── src/
-│ ├── config.py
-│ ├── data_tools/
-│ └── bots/
-└── notebooks/
+├── LICENSE
+└── src/
+    ├── config.py
+    ├── data_tools/
+    └── bots/
 
 ---
 
