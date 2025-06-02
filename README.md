@@ -20,7 +20,7 @@ Lightweight Binance trading & back-testing tools,  (default: **BTCUSDC**). All c
 
 ## 🗂️ Repo layout
 ```text
-crypto-algo-bot/
+BinanceAlgoTrader/
 │
 ├── .env.example          # copy to .env and add your keys
 ├── requirements.txt
