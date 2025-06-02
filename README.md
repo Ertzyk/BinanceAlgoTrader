@@ -31,6 +31,7 @@ crypto-algo-bot/
     ├── config.py
     ├── data_tools/
     └── bots/
+```
 
 ---
 
